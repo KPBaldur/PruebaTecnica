@@ -1,0 +1,10 @@
+.history{
+    display: grid;
+    align-items: colum;
+    text-align: center;
+    justify-content: center;
+}
+
+.separator-operation{
+    width: 90%;
+}
